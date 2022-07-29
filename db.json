@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "first-post",
+      "title": "Awesome trip to SF!",
+      "image": "/src/images/sf-boat.jpg",
+      "location": "Near Golden Gate"
+    },
+    {
+      "id": "2022-07-28T10:59:19.650Z",
+      "title": "sfsf",
+      "location": "sfsfsf",
+      "iamge": "XXX"
+    },
+    {
+      "id": "2022-07-28T10:59:28.046Z",
+      "title": "sfsf",
+      "location": "sfsfsf",
+      "iamge": "XXX"
+    },
+    {
+      "id": "2022-07-29T15:36:33.733Z",
+      "title": "sfsfsf",
+      "location": "sfsfsf",
+      "iamge": "XXX"
+    }
+  ]
+}
