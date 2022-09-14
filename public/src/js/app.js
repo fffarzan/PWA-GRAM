@@ -23,17 +23,17 @@ function handleBeforeInstallPrompt (event) {
 function displayConfirmNotification () {
   var options = {
     body: 'You successfully subscribed to our Notification service!',
-    icon: '/src/images/icons/app-icon-96x96.png',
-    iamge: '/src/images/sf-boat.jpg',
+    icon: '/src/assets/images/icons/app-icon-96x96.png',
+    iamge: '/src/assets/images/sf-boat.jpg',
     dir: 'ltr',
     lang: 'en-US',
     vibrate: [100, 50, 200],
-    badge: '/src/images/icons/app-icon-96x96.png',
+    badge: '/src/assets/images/icons/app-icon-96x96.png',
     tag: 'confirm-notification',
     renotify: true,
     actions: [
-      { action: 'confirm', title: 'Okay', icon: '/src/images/icons/app-icon-96x96.png' },
-      { action: 'cancel', title: 'Cancel', icon: '/src/images/icons/app-icon-96x96.png' }
+      { action: 'confirm', title: 'Okay', icon: '/src/assets/images/icons/app-icon-96x96.png' },
+      { action: 'cancel', title: 'Cancel', icon: '/src/assets/images/icons/app-icon-96x96.png' }
     ]
   };
   if ('serviceWorker' in navigator) {  

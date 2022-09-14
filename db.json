@@ -3,7 +3,7 @@
     {
       "id": "first-post",
       "title": "Awesome trip to SF!",
-      "image": "/src/images/sf-boat.jpg",
+      "image": "/src/assets/images/sf-boat.jpg",
       "location": "Near Golden Gate"
     },
     {
