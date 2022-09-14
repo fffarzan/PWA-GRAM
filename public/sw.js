@@ -1,5 +1,5 @@
 importScripts('/src/assets/js/idb.js');
-importScripts('/src/js/utility.js');
+importScripts('/src/utility.js');
 
 var CACHE_STATIC_NAME = 'static-v30';
 var CACHE_DYNAMIC_NAME = 'dynamic-v4';
@@ -7,8 +7,8 @@ var STATIC_FILES = [
   '/',
   '/index.html',
   '/offline.html',
-  '/src/js/app.js',
-  '/src/js/feed.js',
+  '/src/app.js',
+  '/src/feed.js',
   '/src/assets/js/idb.js',
   '/src/assets/js/promise.js',
   '/src/assets/js/fetch.js',
