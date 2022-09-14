@@ -1,4 +1,7 @@
 # How to Use
 
-1- `npm install`
-2- `npm run start`
+first step: `npm install`
+
+second step: `npm run start`
+
+Enjoy!
