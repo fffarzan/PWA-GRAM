@@ -59,7 +59,7 @@ if (!window.Promise) {
   window.Promise = Promise;
 }
 
-registerServiceWorker('/sw.js');
+registerServiceWorker('/service-worker.js');
 
 window.addEventListener('beforeinstallprompt', handleBeforeInstallPrompt);
 
